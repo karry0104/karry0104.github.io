@@ -3,7 +3,8 @@
 @media (min-width: 768px) {
   .main-header,
   .main-nav,
-  .contents {
+  .contents,
+  .contents2 {
     display: flex;
   }
   .main-header {
@@ -13,7 +14,8 @@
   .content-box {
     flex: 1;
   }
-  .contents {
+  .contents,
+  .contents2 {
     flex-wrap: wrap;
   }
 }

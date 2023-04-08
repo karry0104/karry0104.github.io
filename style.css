@@ -27,7 +27,7 @@
   font-size: 20px;
 }
 
-.message {
+#message {
   padding: 100px;
   background-color: rgb(194, 216, 245);
   text-align: center;
@@ -45,6 +45,11 @@
   margin: auto;
 }
 
+.contents2 {
+  max-width: 1200px;
+  margin: auto;
+}
+
 .content-box {
   font-size: 20px;
   padding: 100px 250px;
@@ -58,6 +63,7 @@
   background-color: rgb(194, 216, 245);
   margin: auto;
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 20px;
   font-size: 20px;
   border: none;
